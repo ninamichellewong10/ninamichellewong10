@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Nina🐳
 
 🤠 I am currently interested in Software Development and Design however, I am open to new opportunities and exploring other realms of Computer Science.
 
