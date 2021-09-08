@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🤠 I am currently interested in Software Development and Design however, I am open to new opportunities and exploring other realms of Computer Science.
+
+🔭 I’m currently working on a group project for my Software Development course where we are developing a clone of Chap's Challenge (1989 Atari game)! I am also      working on a project using Amazon's AWS and learning the basics of cloud networking.
+
+🌱 I’m currently learning how to program in Java in collaborative projects. I am also learning about networks and command line programming.
+
+🐙 I enjoy working collaboratively with others and individually. 
+
+📫 How to reach me: nina.michellewong10@gmail.com
+
 <!--
 **ninamichellewong10/ninamichellewong10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
