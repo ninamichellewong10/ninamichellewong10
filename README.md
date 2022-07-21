@@ -1,6 +1,6 @@
 ### Hi there I'm Nina🐳
 
-🤠 I am currently interested in Software Development and Design however, I am open to new opportunities and exploring other realms of Computer Science.
+🤠 I am in my third year of Computer Science and am interested in Software Development and Design.
 
 🔭 I’m currently working on a group project for my Software Development course where we are developing a clone of Chap's Challenge (1989 Atari game)! I am also      working on a project using Amazon's AWS and learning the basics of cloud networking.
 
