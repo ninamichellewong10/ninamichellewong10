@@ -1,10 +1,8 @@
 ### Hi there I'm Nina🐳
 
-🤠 I am in my third year of Computer Science and am interested in Software Development and Design.
+🤠 I am in my third year studying Computer Science at VUW and am interested in Software Development and Design.
 
-🔭 I’m currently working on a group project for my Software Development course where we are developing a clone of Chap's Challenge (1989 Atari game)! I am also      working on a project using Amazon's AWS and learning the basics of cloud networking.
-
-🌱 I’m currently learning how to program in Java in collaborative projects. I am also learning about networks and command line programming.
+🔭 I’m currently learning about Computer Game Development and Software Development for Mobile.
 
 🐙 I enjoy working collaboratively with others and individually. 
 
