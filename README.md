@@ -1,6 +1,6 @@
 ### Hi there I'm Nina🐳
 
-🤠 I am in my third year studying Computer Science at VUW and am interested in Software Development and Design.
+🤠 I am in my fourth year studying Computer Science at VUW and am interested in Software Development and Design.
 
 🔭 I’m currently learning about Computer Game Development and Software Development for Mobile.
 
